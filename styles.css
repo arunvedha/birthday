@@ -1,0 +1,140 @@
+body {
+  text-align: center;
+  background-color: #00e5ff;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #dbedf3;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #da0463;
+}
+
+footer {
+  color: black;
+  font-family: sans-serif;
+}
+
+.h {
+  background-image: url("images/uma.JPG");
+  background-repeat: no-repeat;
+  background-size: 150px 200px;
+}
+
+.a {
+  background-image: url("images/nishant.jpg");
+  background-repeat: no-repeat;
+  background-size: 250px 250px;
+}
+
+.p {
+  background-image: url("images/arun.jpeg");
+  background-repeat: no-repeat;
+  background-size: 150px 200px;
+}
+
+.pp {
+  background-image: url("images/swetha.jpeg");
+  background-repeat: no-repeat;
+  background-size: 150px 250px;
+}
+
+.y {
+  background-image: url("images/arv2.jpeg");
+  background-repeat: no-repeat;
+  background-size: 150px 200px;
+}
+
+.b {
+  background-image: url("images/aashik.jpeg");
+  background-repeat: no-repeat;
+  background-size: 130px 200px;
+}
+
+.i {
+  background-image: url("images/sauj.jpeg");
+  background-repeat: no-repeat;
+  background-size: 130px 250px;
+}
+.r {
+  background-image: url("images/rohu.jpg");
+  background-repeat: no-repeat;
+  background-size: 150px 200px;
+}
+.t {
+  background-image: url("images/megna.jpeg");
+  background-repeat: no-repeat;
+  background-size: 130px 250px;
+}
+.hh {
+  background-image: url("images/kavya.jpeg");
+  background-repeat: no-repeat;
+  background-size: 130px 200px;
+}
+.d {
+  background-image: url("images/sashank2.jpeg");
+  background-repeat: no-repeat;
+  background-size: 150px 260px;
+}
+.aa {
+  background-image: url("images/menaka.jpeg");
+  background-repeat: no-repeat;
+  background-size: 130px 200px;
+}
+.yy {
+  background-image: url("images/ami.jpeg");
+  background-repeat: no-repeat;
+  background-size: 130px 250px;
+}
+.s {
+  background-image: url("images/bonus.jpeg");
+  background-repeat: no-repeat;
+  background-size: 300px 155px;
+}
+
+.set {
+  margin: 4% auto 4% auto;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #dbedf3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  border: 10px solid#ffd600;
+  font-size: 5rem;
+  font-family: "Arvo", cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #ffd600;
+  text-shadow: 3px 0 black;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 200px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
+.drums {
+  outline: none;
+  border: 10px solid#ffd600;
+  font-size: 5rem;
+  font-family: "Arvo", cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #ffd600;
+  text-shadow: 3px 0 black;
+  border-radius: 15px;
+  width: 150px;
+  height: 250px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
